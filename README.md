@@ -6,6 +6,10 @@ The purpose of the analysis was to update incorrect scores for 9th graders study
 
 - How is the district summary affected?
 - After updating the incorrect scores, the average Math score decreased by 0.1, the percentage of students passing Math decreased by 0.1, the percentage of students passing reading decreased by 0.3 and the percentage of Overall students passing decreased by 0.1.
+- Pre District Summary
+![Pre-Summary](https://github.com/rachanashenoy1/School_District_Analysis/blob/main/Pre-Summary.png)
+- Post District Summary
+![Post District Summar](https://github.com/rachanashenoy1/School_District_Analysis/blob/main/Post%20District%20Summar.png)
 - How is the school summary affected?
 - After updating the incorrect scores, the average math score decreased by 0.1 , % math score decreased by 0.1 , % reading score decreased by 0.1 and % overall passing score decreased by 0.3.
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
